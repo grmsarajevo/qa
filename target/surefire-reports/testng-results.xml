@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="27" started-at="2018-10-10T08:21:19Z" finished-at="2018-10-10T08:21:19Z">
+  <suite name="grm.qa.AppTest" duration-ms="25" started-at="2018-10-10T20:07:02Z" finished-at="2018-10-10T20:07:02Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="27" started-at="2018-10-10T08:21:19Z" finished-at="2018-10-10T08:21:19Z">
+    <test name="Command line test" duration-ms="25" started-at="2018-10-10T20:07:02Z" finished-at="2018-10-10T20:07:02Z">
       <class name="grm.qa.AppTest">
-        <test-method status="PASS" signature="test()[pri:0, instance:grm.qa.AppTest@1936f0f5]" name="test" duration-ms="6" started-at="2018-10-10T08:21:19Z" finished-at="2018-10-10T08:21:19Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:grm.qa.AppTest@da1055]" name="test" duration-ms="5" started-at="2018-10-10T20:07:02Z" finished-at="2018-10-10T20:07:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- grm.qa.AppTest -->
-      <class name="grm.qa.test1">
-        <test-method status="PASS" signature="Testing()[pri:0, instance:grm.qa.test1@6615435c]" name="Testing" duration-ms="0" started-at="2018-10-10T08:21:19Z" finished-at="2018-10-10T08:21:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Testing -->
-      </class> <!-- grm.qa.test1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- grm.qa.AppTest -->
 </testng-results>
